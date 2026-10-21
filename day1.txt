@@ -1,0 +1,5 @@
+day 1 done
+mkdir = create folder
+cd = change folder
+ls = list files
+cp = copy, mv = rename or move
