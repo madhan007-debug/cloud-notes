@@ -1,0 +1,5 @@
+ModuleNotFoundError: No module named 'requests': the library isn’t installed, so repeat the apt install line in Step 2.
+KeyError: the field name doesn’t exist in the data, so check the spelling.
+JSONDecodeError: the file or reply isn’t valid JSON.
+Network error or timeout: check your internet with ping -c 2 github.com.
+403 status from GitHub: you made too many anonymous requests, so wait an hour or so and retry.
