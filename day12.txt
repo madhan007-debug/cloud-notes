@@ -1,0 +1,1 @@
+user vs group vs policy, least privilege, what happened when viewer-test opened S3 and EC2, and the meaning of Effect, Action, and Resource. Don’t include your alias, account ID, passwords, or the sign-in URL
