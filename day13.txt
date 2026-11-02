@@ -1,0 +1,4 @@
+role vs user, trust policy vs permissions policy, what an ARN is, the Shared Responsibility Model with 3 examples each for AWS and you, and what your custom policy allows. Don’t include your account ID or alias
+
+
+
