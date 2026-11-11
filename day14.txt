@@ -1,0 +1,7 @@
+aws s3 ls: list your S3 buckets (empty is fine)
+aws ec2 describe-instances --query "Reservations[].Instances[].[InstanceId,State.Name]" --output table: show each EC2 instance and its state in a table (--query keeps only the fields you pick)
+aws ec2 describe-regions --output table: list all AWS regions
+aws iam list-groups --query "Groups[].GroupName": list your groups (you should see Admins and S3-Readers)
+aws iam list-roles --query "Roles[].RoleName" --output text: list role names as plain text (you should see ec2-s3-read-role if you finished Day 13)
+aws help: show the main help page (press q to quit)
+aws ec2 help: show help for the EC2 service (press q to quit)
